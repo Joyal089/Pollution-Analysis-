@@ -1,0 +1,320 @@
+TimeStamp,Continent,Country,City,AQI,PM 2.5,PM10,NO2
+2025-04-02 17:26:22,Africa,Algeria,Batna,167,167,69,4.8
+2025-04-02 17:28:22,Africa,Benin,Zou,31,9,16,5.1
+2025-04-02 17:29:41,Africa,Cabo Verde,Sal,48,19,48,1
+2025-04-02 17:29:43,Africa,Cabo Verde,Santiago,66,13,66,44.8
+2025-04-02 17:29:49,Africa,Cabo Verde,São Vicente,53,53,25,1
+2025-04-02 17:30:03,Africa,Cameroon,North,34,13,234.93,5.6
+2025-04-02 17:31:45,Africa,"Congo, Democratic Republic of the",Kinshasa,93,93,39,6
+2025-04-02 17:32:40,Africa,Cote d'Ivoire,Abidjan,90,90,63,4
+2025-04-02 17:33:19,Africa,Egypt,Alexandria,18,18,9,1.6
+2025-04-02 17:33:28,Africa,Egypt,Cairo,57,57,18,9
+2025-04-02 17:33:42,Africa,Egypt,Giza,57,57,90,32
+2025-04-02 17:34:50,Africa,Ethiopia,Addis Ababa,74,74,33,14
+2025-04-02 17:35:58,Africa,Ghana,Savannah,27,26,27,3
+2025-04-02 17:36:13,Africa,Guinea,Conakry,72,72,67,1
+2025-04-02 17:36:52,Africa,Kenya,Embu,42,34,13,15
+2025-04-02 17:37:07,Africa,Kenya,Kiambu,5,5,49,10
+2025-04-02 17:37:40,Africa,Kenya,Nairobi,5,5,23.5,13
+2025-04-02 17:39:27,Africa,Madagascar,Antananarivo,34,34,38,1
+2025-04-02 17:39:47,Africa,Mali,Bamako,97,97,18.1,0.14
+2025-04-02 17:40:38,Africa,Mauritius,Black River,28,28,43,5
+2025-04-02 17:40:46,Africa,Mauritius,Moka,21,21,3,1.9
+2025-04-02 17:40:53,Africa,Mauritius,Port Louis,51,51,32,7
+2025-04-02 16:27:51,Asia,Afghanistan,Kabul,193,193,74,
+2025-04-02 16:28:45,Asia,Armenia,Yerevan,44,44,32,12
+2025-04-02 16:29:04,Asia,Bahrain,Muharraq,70,70,80,16
+2025-04-02 16:29:13,Asia,Bangladesh,Dhaka,152,152,142,30
+2025-04-02 16:29:59,Asia,Brunei,Belait,10,6,16,4
+2025-04-02 16:30:04,Asia,Brunei,Tutong,17,10,16,4
+2025-04-02 16:30:28,Asia,Cambodia,Phnom Penh,78,42,42,13
+2025-04-02 16:30:44,Asia,Cambodia,Takeo,30,30,10,2.8
+2025-04-02 16:30:49,Asia,China,Beijing,70,70,48,9.6
+2025-04-02 16:30:51,Asia,China,Chongqing,91,91,49,17.4
+2025-04-02 16:31:06,Asia,China,Henan,151,151,74,39.8
+2025-04-02 16:31:08,Asia,China,Hong Kong,63,63,20,35.9
+2025-04-02 16:31:18,Asia,China,Jilin,161,161,69,25.6
+2025-04-02 16:31:22,Asia,China,Macau,89,89,39,12.4
+2025-04-02 16:31:30,Asia,China,Shanghai,157,157,66,14.2
+2025-04-02 16:31:35,Asia,China,Tianjin,95,95,54,24.3
+2025-04-02 16:31:44,Asia,Cyprus,Nicosia,117,117,97,12.5
+2025-04-02 16:31:46,Asia,Cyprus,Limassol,153,153,148,6.8
+2025-04-02 16:31:47,Asia,Cyprus,Larnaca,105,93,105,3.2
+2025-04-02 16:31:49,Asia,Cyprus,Paphos,95,92,95,10.5
+2025-04-02 16:31:51,Asia,Cyprus,Famagusta,90,90,88,8.4
+2025-04-02 16:31:53,Asia,Cyprus,Kyrenia,117,117,97,12.5
+2025-04-02 16:32:03,Asia,East Timor (Timor-Leste),Dili,144,144,93,65.7
+2025-04-02 16:32:23,Asia,India,Bihar,154,154,96,3.6
+2025-04-02 16:33:09,Asia,India,Chandigarh,123,123,75,24.5
+2025-04-02 16:33:15,Asia,India,Delhi,151,151,118,57
+2025-04-02 16:33:17,Asia,India,Puducherry,40,40,22,2.5
+2025-04-02 16:33:25,Asia,Indonesia,Bali,155,155,73,171.7
+2025-04-02 16:33:30,Asia,Indonesia,Bengkulu,42,42,46,11
+2025-04-02 16:33:44,Asia,Indonesia,Jakarta,34,34,29,8
+2025-04-02 16:33:46,Asia,Indonesia,Jambi,45,45,26,11
+2025-04-02 16:34:19,Asia,Indonesia,Yogyakarta,62,62,29,8
+2025-04-02 16:34:21,Asia,Iran,Tehran,68,68,59,34
+2025-04-02 16:34:23,Asia,Iran,Isfahan,56,56,55,24
+2025-04-02 16:34:26,Asia,Iran,Kerman,54,54,67,18
+2025-04-02 16:34:35,Asia,Iran,Qom,50,16,50,93
+2025-04-02 16:34:39,Asia,Iran,Yazd,43,17,43,73
+2025-04-02 16:34:45,Asia,Iraq,Baghdad,95,95,65,14
+2025-04-02 16:34:47,Asia,Iraq,Basra,60,110,60,34
+2025-04-02 16:35:15,Asia,Japan,Kanto,26,19,26,44
+2025-04-02 16:35:26,Asia,Japan,Okinawa,21,21,10,3.8
+2025-04-02 16:35:28,Asia,Jordan,Amman,18,24,18,6
+2025-04-02 16:35:29,Asia,Jordan,Irbid,28,14,28,5.9
+2025-04-02 16:35:31,Asia,Jordan,Zarqa,52,17,52,6
+2025-04-02 16:35:33,Asia,Jordan,Madaba,25,25,64,16
+2025-04-02 16:35:42,Asia,Jordan,Aqaba,26,19,42,4.7
+2025-04-02 16:35:44,Asia,Kazakhstan,Almaty,5,23,85,0.5
+2025-04-02 16:35:45,Asia,Kazakhstan,Akmola,12,18,43,27.2
+2025-04-02 16:36:05,Asia,Kuwait,Hawalli,83,83,58,8.5
+2025-04-02 16:36:07,Asia,Kuwait,Al Farwaniyah,91,91,62,28.4
+2025-04-02 16:36:09,Asia,Kuwait,Al Jahra,111,87,111,21.8
+2025-04-02 16:36:12,Asia,Kuwait,Ahmadi,139,139,38,11.9
+2025-04-02 16:36:14,Asia,Kyrgyzstan,Bishkek,80,80,37,9
+2025-04-02 16:36:27,Asia,Kyrgyzstan,Talas,25,14,17,6.1
+2025-04-02 16:37:04,Asia,Lebanon,Mount Lebanon,-,47,23,23.96
+2025-04-02 16:37:12,Asia,Malaysia,Johor,43,13,28,6
+2025-04-02 16:37:18,Asia,Malaysia,Malacca,36,27,16,12
+2025-04-02 16:37:25,Asia,Malaysia,Perlis,32,11,30,6
+2025-04-02 16:37:27,Asia,Malaysia,Penang,62,12,28,6
+2025-04-02 16:37:33,Asia,Malaysia,Selangor,36,13,28,6
+2025-04-02 16:38:05,Asia,Mongolia,Ulaanbaatar,68,18,68,58
+2025-04-02 16:38:45,Asia,Myanmar (Burma),Chin,165,165,66,42.5
+2025-04-02 16:38:55,Asia,Myanmar (Burma),Mon,40,30,26,2.8
+2025-04-02 16:39:00,Asia,Myanmar (Burma),Shan,74,74,40,22.4
+2025-04-02 16:39:04,Asia,Myanmar (Burma),Yangon,153,153,66,7
+2025-04-02 16:41:02,Asia,Saudi Arabia,Riyadh,33,23,33,12
+2025-04-02 16:41:04,Asia,Saudi Arabia,Mecca,37,38,37,6
+2025-04-02 16:41:06,Asia,Saudi Arabia,Medina,18,20,8,3
+2025-04-02 16:41:12,Asia,Saudi Arabia,Jizan,36,24,14,1
+2025-04-02 16:41:16,Asia,Saudi Arabia,Tabuk,112,33,10,7
+2025-04-02 16:41:36,Asia,South Korea,Seoul,104,104,40,15.7
+2025-04-02 16:41:38,Asia,South Korea,Busan,53,53,20,9.2
+2025-04-02 16:41:39,Asia,South Korea,Daegu,65,65,21,7.9
+2025-04-02 16:41:41,Asia,South Korea,Incheon,80,80,30,12.3
+2025-04-02 16:41:43,Asia,South Korea,Gwangju,112,112,53,10
+2025-04-02 16:41:45,Asia,South Korea,Daejeon,91,91,39,9.6
+2025-04-02 16:41:47,Asia,South Korea,Ulsan,50,50,16,9.9
+2025-04-02 16:41:49,Asia,South Korea,Sejong,47,85,22,8
+2025-04-02 16:42:06,Asia,South Korea,Jeju,85,85,40,9.9
+2025-04-02 16:42:30,Asia,Syria,Hama,9,1,9,1.9
+2025-04-02 16:42:49,Asia,Taiwan,Taipei,57,57,23,22.5
+2025-04-02 16:42:55,Asia,Taiwan,Taichung,55,55,22,24.5
+2025-04-02 16:42:56,Asia,Taiwan,Tainan,82,82,57,21.6
+2025-04-02 16:42:58,Asia,Taiwan,Kaohsiung,107,107,53,22
+2025-04-02 16:43:00,Asia,Taiwan,Keelung,63,63,36,36.2
+2025-04-02 16:43:29,Asia,Tajikistan,Dushanbe,156,156,47.75,20
+2025-04-02 16:43:36,Asia,Thailand,Bangkok,81,81,36,1.2
+2025-04-02 16:43:38,Asia,Thailand,Chiang Mai,93,93,82,7.5
+2025-04-02 16:43:40,Asia,Thailand,Nonthaburi,98,98,48,8.7
+2025-04-02 16:43:42,Asia,Thailand,Nakhon Ratchasima,97,97,50.5,15.6
+2025-04-02 16:43:44,Asia,Thailand,Samut Prakan,115,115,55,9.3
+2025-04-02 16:43:46,Asia,Thailand,Ubon Ratchathani,121,121,54,3.5
+2025-04-02 16:43:47,Asia,Thailand,Khon Kaen,137,137,63,7
+2025-04-02 16:43:49,Asia,Thailand,Chonburi,94,94,33,9.3
+2025-04-02 16:43:51,Asia,Thailand,Nakhon Si Thammarat,25,25,12,5.2
+2025-04-02 16:43:53,Asia,Thailand,Surat Thani,31,31,48,5
+2025-04-02 16:43:55,Asia,Turkey,Istanbul,62,62,32,31.5
+2025-04-02 16:43:57,Asia,Turkey,Ankara,31,31,27,27.1
+2025-04-02 16:43:59,Asia,Turkey,Izmir,129,129,9,30.3
+2025-04-02 16:44:01,Asia,Turkey,Bursa,76,76,31,19.8
+2025-04-02 16:44:02,Asia,Turkey,Antalya,56,56,49,18.7
+2025-04-02 16:44:04,Asia,Turkey,Adana,31,13,31,24.7
+2025-04-02 16:44:06,Asia,Turkey,Gaziantep,31,169,31,13
+2025-04-02 16:44:08,Asia,Turkey,Konya,42,37,42,3.7
+2025-04-02 16:44:10,Asia,Turkey,Çankaya,31,31,27,27.1
+2025-04-02 16:44:11,Asia,Turkey,Mersin,33,10,33,24.7
+2025-04-02 16:44:13,Asia,Turkmenistan,Ashgabat,57,57,81,9.38
+2025-04-02 16:44:24,Asia,United Arab Emirates (UAE),Abu Dhabi,72,72,62,16
+2025-04-02 16:44:26,Asia,United Arab Emirates (UAE),Dubai,132,132,68,18.7
+2025-04-02 16:44:37,Asia,Uzbekistan,Tashkent,35,10,50,33
+2025-04-02 16:45:02,Asia,Vietnam,Hanoi,128,128,57,35.6
+2025-04-02 16:45:04,Asia,Vietnam,Ho Chi Minh City,-,8,22,14.29
+2025-04-02 16:45:05,Asia,Vietnam,Da Nang,5,5,4,20
+2025-04-02 16:45:07,Asia,Vietnam,Hai Phong,4,4,4,10
+2025-04-02 16:45:38,Asia,Yemen,Dali,89,89,42,5.1
+2025-04-02 16:46:08,Europe,Albania,Kukës,15,60,15,12
+2025-04-02 16:46:17,Europe,Andorra,Andorra la Vella,23,6,3,12.1
+2025-04-02 16:46:23,Europe,Andorra,Escaldes-Engordany,23,6,3,12.1
+2025-04-02 16:46:38,Europe,Austria,Salzburg,10,8,10,3.2
+2025-04-02 16:46:45,Europe,Austria,Vienna,70,70,23,10.6
+2025-04-02 16:47:12,Europe,Bulgaria,Blagoevgrad,23,22,3,4.8
+2025-04-02 16:47:14,Europe,Bulgaria,Burgas,11,16,8,9.8
+2025-04-02 16:47:16,Europe,Bulgaria,Dobrich,13,15,13,10
+2025-04-02 16:47:22,Europe,Bulgaria,Kardzhali,11,13,5,9
+2025-04-02 16:47:25,Europe,Bulgaria,Lovech,8,18,8,11
+2025-04-02 16:47:31,Europe,Bulgaria,Pernik,8,17,8,8.9
+2025-04-02 16:47:33,Europe,Bulgaria,Pleven,51,16,51,16.9
+2025-04-02 16:47:35,Europe,Bulgaria,Plovdiv,12,16,8,16.4
+2025-04-02 16:47:38,Europe,Bulgaria,Ruse,26,13,16,4
+2025-04-02 16:47:40,Europe,Bulgaria,Shumen,16,16,13,14.4
+2025-04-02 16:47:44,Europe,Bulgaria,Sliven,16,16,16,10
+2025-04-02 16:47:46,Europe,Bulgaria,Smolyan,3,13,3,8
+2025-04-02 16:47:51,Europe,Bulgaria,Stara Zagora,9,16,5,12.2
+2025-04-02 16:47:55,Europe,Bulgaria,Varna,26,26,11,3.9
+2025-04-02 16:47:56,Europe,Bulgaria,Veliko Tarnovo,18,18,17,8.7
+2025-04-02 16:48:00,Europe,Bulgaria,Vratsa,12,18,12,1
+2025-04-02 16:48:41,Europe,Czech Republic,Prague,40,23,20,5
+2025-04-02 16:50:51,Europe,Germany,Berlin,38,38,14,3.7
+2025-04-02 16:50:53,Europe,Germany,Brandenburg,39,34,13,1.9
+2025-04-02 16:50:55,Europe,Germany,Bremen,59,59,20,3.7
+2025-04-02 16:50:56,Europe,Germany,Hamburg,38,38,11,7.8
+2025-04-02 16:51:45,Europe,Hungary,Budapest,30,30,18,12
+2025-04-02 16:52:11,Europe,Hungary,Somogy,21,21,6,24.7
+2025-04-02 16:52:17,Europe,Hungary,Vas,36,36,17,38.7
+2025-04-02 16:52:19,Europe,Hungary,Veszprém,46,46,15,10.7
+2025-04-02 16:52:41,Europe,Ireland,Munster,27,27,11,3.4
+2025-04-02 16:53:21,Europe,Kosovo,Prishtina,26,30,10,10.1
+2025-04-02 16:53:23,Europe,Kosovo,Prizren,21,21,6,15.1
+2025-04-02 16:53:25,Europe,Kosovo,Peja,27,21,5,5.5
+2025-04-02 16:53:28,Europe,Kosovo,Mitrovica,18,13,4,1.9
+2025-04-02 16:53:30,Europe,Kosovo,Gjilan,21,21,6,7.8
+2025-04-02 16:53:32,Europe,Kosovo,Ferizaj,37,37,16,7.4
+2025-04-02 16:54:27,Europe,Luxembourg,Luxembourg,38,38,21,12
+2025-04-02 16:54:39,Europe,Moldova,Chișinău,53,53,60,13
+2025-04-02 16:55:06,Europe,Montenegro,Bar,18,21,5,1
+2025-04-02 16:55:10,Europe,Montenegro,Bijelo Polje,32,32,9,11.4
+2025-04-02 16:55:11,Europe,Montenegro,Budva,18,21,5,1
+2025-04-02 16:55:13,Europe,Montenegro,Cetinje,5,21,5,10
+2025-04-02 16:55:17,Europe,Montenegro,Herceg Novi,36,5,4,0.4
+2025-04-02 16:55:25,Europe,Montenegro,Nikšić,31,22,6,1.4
+2025-04-02 16:55:29,Europe,Montenegro,Pljevlja,40,40,11,6.9
+2025-04-02 16:55:30,Europe,Montenegro,Podgorica,5,21,5,12
+2025-04-02 16:55:49,Europe,Netherlands,Groningen,37,25,10,3
+2025-04-02 16:55:51,Europe,Netherlands,Limburg,37,29,15,17
+2025-04-02 16:55:58,Europe,Netherlands,South Holland,37,37,21,21
+2025-04-02 16:56:00,Europe,Netherlands,Utrecht,39,10,20,2.1
+2025-04-02 16:56:05,Europe,North Macedonia,Skopje,32,32,19,16
+2025-04-02 16:56:20,Europe,Norway,Oslo,26,26,21,30.5
+2025-04-02 16:57:16,Europe,Portugal,Lisbon,34,22,11,10.1
+2025-04-02 16:57:21,Europe,Romania,Bucharest,15,18.4,15,24.9
+2025-04-02 16:57:23,Europe,Romania,Alba,40,14,18,3
+2025-04-02 16:57:25,Europe,Romania,Arad,24,37,19,4.3
+2025-04-02 16:57:29,Europe,Romania,Bacău,26,28,1,7.3
+2025-04-02 16:57:34,Europe,Romania,Botoșani,13,26,10,7.7
+2025-04-02 16:57:36,Europe,Romania,Brașov,26,49,13,3.5
+2025-04-02 16:57:38,Europe,Romania,Brăila,31,22,4,4.5
+2025-04-02 16:57:45,Europe,Romania,Cluj,9,8.8,9,3.5
+2025-04-02 16:57:47,Europe,Romania,Constanța,9,20,9,5.2
+2025-04-02 16:57:54,Europe,Romania,Galați,17,21,17,5.2
+2025-04-02 16:57:56,Europe,Romania,Giurgiu,6,11,6,9.1
+2025-04-02 16:58:02,Europe,Romania,Hunedoara,11,32,11,2.1
+2025-04-02 16:58:06,Europe,Romania,Iași,13,8,13,4.5
+2025-04-02 16:58:23,Europe,Romania,Satu Mare,24,30,15,15.4
+2025-04-02 16:58:24,Europe,Romania,Sibiu,43,60,23,4.3
+2025-04-02 16:58:26,Europe,Romania,Suceava,20,27,36,3.3
+2025-04-02 16:58:32,Europe,Romania,Tulcea,33,12,23,4.5
+2025-04-02 16:58:34,Europe,Romania,Vâlcea,7,14,3,13.9
+2025-04-02 16:58:36,Europe,Romania,Vaslui,20,9,13,8.2
+2025-04-02 16:58:45,North America,Canada,New Brunswick,28,8,8,4.7
+2025-04-02 16:58:51,North America,Canada,Ontario,24,24,13,25
+2025-04-02 16:58:54,North America,Canada,Quebec,24,15,13,1.9
+2025-04-02 16:59:07,North America,United States,Arizona,43,27,43,6
+2025-04-02 16:59:21,North America,United States,Georgia,69,69,47,16.8
+2025-04-02 16:59:37,North America,United States,Maine,32,32,13,3
+2025-04-02 16:59:52,North America,United States,Missouri,77,77,17,4
+2025-04-02 17:00:05,North America,United States,New York,20,20,17,8
+2025-04-02 17:00:12,North America,United States,Oklahoma,30,29,30,5.6
+2025-04-02 17:00:14,North America,United States,Oregon,27,23,9,3
+2025-04-02 17:00:32,North America,United States,Washington,17,17,7,3.1
+2025-04-02 17:00:38,North America,United States,Wyoming,27,19,7,4.4
+2025-04-02 17:00:39,North America,United States,Puerto Rico,28,55,35,3
+2025-04-02 17:00:43,North America,Mexico,Aguascalientes,20,15,20,8
+2025-04-02 17:00:53,North America,Mexico,Chihuahua,38,18,27,7.5
+2025-04-02 17:00:57,North America,Mexico,Colima,55,17,53,6
+2025-04-02 17:00:59,North America,Mexico,Durango,34,34,14,4.2
+2025-04-02 17:01:01,North America,Mexico,Guanajuato,63,63,52,7
+2025-04-02 17:01:09,North America,Mexico,Jalisco,80,80,76,8.5
+2025-04-02 17:01:11,North America,Mexico,Mexico City,122,122,56,89.2
+2025-04-02 17:01:18,North America,Mexico,Morelos,25,20,62,51.1
+2025-04-02 17:01:23,North America,Mexico,Nayarit,80,80,76,8
+2025-04-02 17:01:29,North America,Mexico,Oaxaca,54,18,54,8
+2025-04-02 17:01:32,North America,Mexico,Puebla,112,112,69,2.7
+2025-04-02 17:01:41,North America,Mexico,San Luis Potosí,54,16,54,9.9
+2025-04-02 17:01:53,North America,Mexico,Tlaxcala,85,85,55,16.3
+2025-04-02 17:02:01,North America,Mexico,Zacatecas,32,32,25,9.6
+2025-04-02 17:02:04,North America,Belize,Belize,35,13,35,7.5
+2025-04-02 17:02:15,North America,Belize,Toledo,27,23,9,7.5
+2025-04-02 17:02:28,North America,Guatemala,Guatemala,61,61,62,7.5
+2025-04-02 17:02:37,North America,Guatemala,Jalapa,46,46,34,7
+2025-04-02 17:02:52,North America,Guatemala,San Marcos,50,25,50,7
+2025-04-02 17:02:57,North America,Guatemala,Santa Rosa,42,25,50,11
+2025-04-02 17:03:37,North America,Honduras,Santa Bárbara,25,25,10,7
+2025-04-02 17:03:57,North America,El Salvador,La Unión,21,21,50,7
+2025-04-02 17:04:03,North America,El Salvador,San Miguel,38,38,55,7
+2025-04-02 17:04:05,North America,El Salvador,San Salvador,60,35,60,7
+2025-04-02 17:04:11,North America,El Salvador,San Vicente,54,9,3,0.5
+2025-04-02 17:04:18,North America,El Salvador,Santa Ana,23,23,12,16.4
+2025-04-02 17:04:35,North America,Nicaragua,Granada,29,25,16,5.7
+2025-04-02 17:04:41,North America,Nicaragua,León,53,53,24,5.5
+2025-04-02 17:05:02,North America,Costa Rica,Alajuela,38,38,8.94,13
+2025-04-02 17:05:10,North America,Costa Rica,Heredia,38,38,7.23,13
+2025-04-02 17:05:20,North America,Costa Rica,San José,34,34,23,18.7
+2025-04-02 17:05:38,North America,Panama,Panamá,40,40,40,15.5
+2025-04-02 17:07:03,North America,Dominican Republic,San Cristóbal,25,14,23,51.1
+2025-04-02 17:07:10,North America,Dominican Republic,San Juan,34,55,25,17
+2025-04-02 17:07:18,North America,Dominican Republic,Santiago,66,13,66,44.8
+2025-04-02 17:07:31,North America,Haiti,Nippes,64,59,64,5.1
+2025-04-02 17:07:48,North America,Jamaica,Clarendon,15,15,35,13
+2025-04-02 17:07:54,North America,Jamaica,Hanover,46,46,17,4.2
+2025-04-02 17:07:58,North America,Jamaica,Kingston,30,17,20,2.7
+2025-04-02 17:08:05,North America,Jamaica,Manchester,46,46,26,8.6
+2025-04-02 17:08:06,North America,Jamaica,Portland,14,14,20,9.1
+2025-04-02 17:08:15,North America,Jamaica,Saint James,20,18,20,4
+2025-04-02 17:08:56,North America,Bahamas,Long Island,20,20,15,25
+2025-04-02 17:09:13,North America,Bahamas,San Salvador,60,9,15,13
+2025-04-02 17:09:32,North America,Barbados,Saint James,20,18,20,4
+2025-04-02 17:09:38,North America,Barbados,Saint John,37,10,15,1.1
+2025-04-02 17:09:44,North America,Barbados,Saint Joseph,40,37,40,13
+2025-04-02 17:09:49,North America,Barbados,Saint Michael,28,22,15,13
+2025-04-02 17:10:11,North America,Dominica,Saint John,37,10,15,1.1
+2025-04-02 17:10:18,North America,Dominica,Saint Joseph,40,37,40,13
+2025-04-02 17:10:27,North America,Dominica,Saint Paul,15,15,15,13
+2025-04-02 17:10:40,North America,Grenada,Saint John,37,10,15,1.1
+2025-04-02 17:11:27,North America,Saint Vincent and the Grenadines,Charlotte,28,28,15,14
+2025-04-02 17:11:48,North America,Trinidad and Tobago,Port of Spain,41,41,28,3.3
+2025-04-02 17:11:53,North America,Trinidad and Tobago,Princes Town,31,2,15,7.5
+2025-04-02 17:12:00,North America,Trinidad and Tobago,San Fernando,36,21,13,3.7
+2025-04-02 17:12:30,Oceania,Australia,Victoria,26,26,15,3.7
+2025-04-02 17:13:07,Oceania,Marshall Islands,Aur,11,11,15,1.4
+2025-04-02 17:14:23,Oceania,New Zealand,Auckland,21,21,12,6.5
+2025-04-02 17:14:26,Oceania,New Zealand,Wellington,25,6.5,13,14
+2025-04-02 17:14:50,Oceania,New Zealand,Nelson,19,13,19,11
+2025-04-02 17:17:28,Oceania,French Territories (Oceania),New Caledonia,15,15,5,1.3
+2025-04-02 17:17:35,South America,Argentina,Buenos Aires,50,10,14,1.9
+2025-04-02 17:17:43,South America,Argentina,Córdoba,36,36,25,6
+2025-04-02 17:17:51,South America,Argentina,Entre Ríos,35,25,25,3.2
+2025-04-02 17:17:54,South America,Argentina,Formosa,59,59,20,11
+2025-04-02 17:18:15,South America,Argentina,San Juan,55,55,25,12.5
+2025-04-02 17:18:20,South America,Argentina,San Luis,92,10,92,8.6
+2025-04-02 17:18:27,South America,Argentina,Santa Cruz,19,13,16,9
+2025-04-02 17:18:41,South America,Bolivia,Cochabamba,51,7.5,51,18.9
+2025-04-02 17:18:56,South America,Bolivia,Santa Cruz,19,13,30,9
+2025-04-02 17:18:59,South America,Brazil,Acre,104,104,82,7
+2025-04-02 17:19:35,South America,Brazil,Rio de Janeiro,50,7,25,6
+2025-04-02 17:19:47,South America,Brazil,Santa Catarina,93,46,93,14.7
+2025-04-02 17:19:53,South America,Brazil,São Paulo,32,99,30,9.6
+2025-04-02 17:20:04,South America,Chile,Antofagasta,46,46,31,17
+2025-04-02 17:20:08,South America,Chile,Coquimbo,85,85,25,13
+2025-04-02 17:20:12,South America,Chile,Valparaíso,68,68,30,20
+2025-04-02 17:20:29,South America,Chile,Aysén,34,34,15,11
+2025-04-02 17:20:39,South America,Colombia,Antioquia,401,401,142,23
+2025-04-02 17:20:46,South America,Colombia,Bogotá,34,34,21,3.4
+2025-04-02 17:20:53,South America,Colombia,Caldas,61,61,25,17
+2025-04-02 17:21:06,South America,Colombia,Córdoba,36,36,25,6
+2025-04-02 17:21:17,South America,Colombia,Magdalena,129,129,30,52.2
+2025-04-02 17:21:33,South America,Colombia,Santander,17,7,17,5.1
+2025-04-02 17:23:05,South America,Paraguay,Concepción,53,53,17,4.1
+2025-04-02 17:23:20,South America,Paraguay,San Pedro,35,7.5,30,190.8
+2025-04-02 17:23:33,South America,Peru,Callao,65,65,26,13.2
+2025-04-02 17:23:49,South America,Peru,Lima,54,54,33,7.8
+2025-04-02 17:24:02,South America,Peru,Puno,232,232,138,198
+2025-04-02 17:24:07,South America,Peru,San Martín,65,65,33,5.6
+2025-04-02 17:24:38,South America,Uruguay,Colonia,22,22,20,34.3
+2025-04-02 17:25:04,South America,Uruguay,San José,34,34,35,18.7
+2025-04-02 17:25:33,South America,Venezuela,Mérida,26,56,36,3.67
+2025-04-02 17:25:37,South America,Venezuela,Miranda,21,21,14,2.3
+2025-04-02 17:26:03,South America,French Guiana,Cayenne,9,4,9,17.41
